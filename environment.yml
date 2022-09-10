@@ -6,6 +6,9 @@ dependencies:
   - mplhep
   - pandas
   - hist
+  - jupyterlab
+  - rise
+  - pip
   - pip:
-    - zfit[all] >=0.10.1
-    - hepstats
+    - zfit[all] ~=0.10.1
+    - hepstats ~=0.6.0

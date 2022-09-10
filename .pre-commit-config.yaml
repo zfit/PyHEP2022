@@ -21,11 +21,11 @@ repos:
     rev: 1.4.0
     hooks:
       - id: nbqa-isort
-        additional_dependencies: [ isort==5.6.4 ]
+        additional_dependencies: [ isort ]
         args: [ --nbqa-mutate ]
 
       - id: nbqa-pyupgrade
-        additional_dependencies: [ pyupgrade==2.7.4 ]
+        additional_dependencies: [ pyupgrade ]
         args: [ --py37-plus, --nbqa-mutate ]
 
 

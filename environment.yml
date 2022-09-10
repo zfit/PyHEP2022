@@ -1,0 +1,11 @@
+name: zfit310
+
+dependencies:
+  - python=3.10
+  - matplotlib
+  - mplhep
+  - pandas
+  - hist
+  - pip:
+    - zfit[all] >=0.10.1
+    - hepstats

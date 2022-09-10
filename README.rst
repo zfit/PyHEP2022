@@ -1,5 +1,5 @@
 ================================
-zfit and hepstats PyHEP 2021
+zfit PyHEP 2022
 ================================
 
 The PyHEP talk is about `zfit <https://github.com/zfit/zfit#zfit-scalable-pythonic-fitting>`_
@@ -24,7 +24,7 @@ or they can be run in a binder instance (in browser, no installation needed)
 (or, if that fails or doesn't yet has the newest updates)
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/zfit/PyHEP2022/HEAD
+ :target: https://mybinder.org/v2/gh/zfit/PyHEP2022/HEAD?labpath=zfit_binned.ipynb
 
 
 .. image:: https://mybinder.org/badge_logo.svg

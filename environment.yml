@@ -11,3 +11,4 @@ dependencies:
   - pip:
     - zfit[all] ~=0.10.1
     - hepstats ~=0.6.0
+    - tfp-nightly ~=0.18  # 0.17 is not compatible with TF 2.10, 0.18 is only nightly

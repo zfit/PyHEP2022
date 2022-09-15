@@ -10,4 +10,5 @@ dependencies:
   - jupyterlab
   - pip:
     - zfit[all] ~=0.10.1
+    - zfit-physics
     - hepstats ~=0.6.0

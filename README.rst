@@ -2,6 +2,9 @@
 zfit PyHEP 2022
 ================================
 
+.. image:: https://zenodo.org/badge/534977784.svg
+   :target: https://zenodo.org/badge/latestdoi/534977784
+
 The PyHEP talk is about `zfit <https://github.com/zfit/zfit#zfit-scalable-pythonic-fitting>`_
 with some examples on `hepstats <https://github.com/scikit-hep/hepstats#hepstats-package-statistics-tools-and-utilities>`_.
 
